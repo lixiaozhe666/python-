@@ -148,12 +148,26 @@ soup = BeautifulSoup(text,'lxml')#'lxml'解析器，按照lxml来解析html文�
 #     print(li)
 #     print("*"*30)
 
+# lis = soup.select("li")
+# for li in lis:
+#     print(li)
+#     print("*"*30)
+
 #2获得第2个li标签
 # liTwo = soup.find_all("li",limit=2)[1]#limit控制查找出来元素的数量，find_all()返回一个数组
 # print(liTwo)
 
+# liTwo = soup.select("li")[1]
+# print(liTwo)
+
+
 #3获得第2个含第2个以后的li标签
 # lis =soup.find_all("li")[1:]
+# for li in lis:
+#     print(li)
+#     print("*"*30)
+
+# lis =soup.select("li")[1:]
 # for li in lis:
 #     print(li)
 #     print("*"*30)
@@ -171,6 +185,11 @@ soup = BeautifulSoup(text,'lxml')#'lxml'解析器，按照lxml来解析html文�
     #     print(div)
     #     print("*"*30)
 
+# divs  = soup.select("div.industry")
+# for div in divs:
+#     print(div)
+#     print("*"*30)
+
 #5获得所有class中含有_list的元素li标签
 # lis = htmlElement.xpath("//li[contains(@class,'_list')]")
 # for li in lis:
@@ -182,14 +201,20 @@ soup = BeautifulSoup(text,'lxml')#'lxml'解析器，按照lxml来解析html文�
 #     print(a["href"])#或者a.attrs['href']
 #     print("*"*30)
 
+# aList = soup.select("a")
+# for a in aList:
+#     print(a["href"])#或者a.attrs['href']
+#     print("*"*30)
+
 
 #7.获得 class为list_item_bot ,id为test的div
-divs = soup.find_all("div",class_="list_item_bot",id="test")
-for div in divs:
-    print(div)
+# divs = soup.find_all("div",class_="list_item_bot",id="test")
+# for div in divs:
+#     print(div)
 
 #8.获得所有文本信息
 # lis = soup.find_all("li")
+# lis  =soup.select("li")
 # for li in lis:
 #     infos = list(li.strings)#过滤掉所以非标签元素的文本
 #     # print(infos)
@@ -203,6 +228,30 @@ for div in divs:
 #         "salary":infos2[3]
 #     }
 #     print( position)
+
+#9.获得li下面的所有子孙div
+# divs = soup.select("li div")
+# for div in divs:
+#     print(div)
+#     print("*"*30)
+
+#10 获得li下面直接子div
+# divs = soup.select("li > div")
+# for div in divs:
+#     print(div)
+#     print("*"*30)
+
+#11 获得class 为industry的标签
+# Elements = soup.select(".industry")
+# for Element in Elements:
+#     print(Element)
+#     print("*"*30)
+
+#12 获得所有id为test的标签
+# Elements = soup.select("#test")
+# for Element in Elements:
+#     print(Element)
+#     print("*"*30)
 
 
 
