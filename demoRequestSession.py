@@ -7,8 +7,8 @@ header ={
     'User-Agent':'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.90 Safari/537.36 2345Explorer/9.3.2.17331'
 }
 data = {
-    "email":"15926470603",
-    "password":"LZ19940330330"
+    "email":"15111470603",
+    "password":"21111111130"
 }
 session =requests.session()
 session.post(login_url,headers=header,data = data)
