@@ -148,36 +148,47 @@ htmlElement = etree.HTML(text)
 #2获得第2个li标签
 # li= htmlElement.xpath("//li[2]")[0]
 # print(etree.tostring(li,encoding="utf-8").decode("utf-8"))
+#3获得第2个以后的li标签
+# lis= htmlElement.xpath("//li[position()>2]")
+# for li in lis:
+#     print(etree.tostring(li,encoding="utf-8").decode("utf-8"))
 
-#3获得所有class = industry的标签div元素
+#4获得所有class = industry的标签div元素
 # divs = htmlElement.xpath("//div[@class = 'industry']")
 # for div in divs:
 #     print(etree.tostring(div,encoding="utf-8").decode("utf-8"))
 
-#4获得所有class中含有_list的元素li标签
+#5获得所有class中含有_list的元素li标签
 # lis = htmlElement.xpath("//li[contains(@class,'_list')]")
 # for li in lis:
 #     print(etree.tostring(li,encoding="utf-8").decode("utf-8"))
 
-#5.获得a标签的href的文本
+#6.获得a标签的href的文本
 # alist = htmlElement.xpath("//a/@href")#不能使用//a[@href]这样找的是含有href属性的a标签不是href的值
 # for a in alist:
 #     print(a)
+# alist = htmlElement.xpath("//a")
+# for a in alist:
+#     print(a.get('href'))#a.get(属性值)可以获得
 
-#6.获得所有文本信息
-lis = htmlElement.xpath("//li")
-for li in lis:
-    position = li.xpath(".//h3/text()")[0]
-    salary = li.xpath(".//span[@class = 'money']/text()")[0]
-    address = li.xpath(".//span[@class = 'add']/em/text()")[0]
-    advantages = li.xpath(".//div[@class ='list_item_bot']/div[@class='li_b_l']/span/text()")
-    temp = {
-        "positon":position,
-        "salary":salary,
-        "address":address,
-        "advantage":advantages
-    }
-    print(temp)
+#7.获得 class为industry 或者li_b_r的div
+# divs = htmlElement.xpath("//div[@class = 'industry' or @class = 'li_b_r']")
+# for div in divs:
+#     print(etree.tostring(div,encoding="utf-8").decode("utf-8"))
+#8.获得所有文本信息
+# lis = htmlElement.xpath("//li")
+# for li in lis:
+#     position = li.xpath(".//h3/text()")[0]
+#     salary = li.xpath(".//span[@class = 'money']/text()")[0]
+#     address = li.xpath(".//span[@class = 'add']/em/text()")[0]
+#     advantages = li.xpath(".//div[@class ='list_item_bot']/div[@class='li_b_l']/span/text()")
+#     temp = {
+#         "positon":position,
+#         "salary":salary,
+#         "address":address,
+#         "advantage":advantages
+#     }
+#     print(temp)
 
 
 
