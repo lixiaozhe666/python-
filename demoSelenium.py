@@ -10,7 +10,7 @@ import time
 #指定浏览器驱动位置
 dirver_path = r'/home/lz/Document/python/pythonCourseDemo/chromedriver'
 dirver =webdriver.Chrome(executable_path=dirver_path)
-dirver.get("https://www.baidu.com")
+dirver.get("https://www.baidu.com")#url一定要写全，加上https或者http,否则报错
 
 time.sleep(5)
 dirver.close()#关闭当前选项卡
