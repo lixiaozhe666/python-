@@ -2,9 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a599ec6e-2410-4b1c-9233-706f00786426" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/demoAsynbsbdj.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demotest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoSelenium.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/30款适合日常的美甲" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/49句土味情话，撩不" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/90后离婚的100个" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/《纽约时报》补发林徽" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/一个屁的推力有多大？" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/一只老鼠被车窗夹住了" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中二一把！把你最喜欢" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中国语言有多博大精深" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/二汪太沮丧了…这次又" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/今天拜访一位3D立体" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/从考场出来，看到成绩" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/刀枪剑戟十八般武器，" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/分享一种很好的解压方" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/原来那火爆全网的梨子" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/又萌又帅又能干！还可" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/各位声优大咖，来挑战" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/同样是第一批90后，" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/团队瞬间团灭，中间的" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/如果有可能，你会在吃" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/妻子在ICU生命垂危" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/姐夫们看看我的天子驾" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/实力碾压，稳坐泰山…" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/家里的喵，老是喜欢摆" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/小哥哥读了小姐姐扛不" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/小心点，我有你洗澡的" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/小熊，你难过的时候抱" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/小猪佩奇凭什么这么火" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/当你喜欢的人给你发语" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/当年玩游戏，你充了多" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/愿你历经红尘万里，仍" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/我不管，都给我笑！！" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/我们这里叫菠萝，你们" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/我只是，不想后悔" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/我说这是科目二，侧方" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/截图唱歌，截到谁就唱" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/招聘信息解读，你知道" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/早起对人的改变有多大" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/昨天应邀参加一个大型" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/有没有哪一刻，你怀疑" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/有没有那么一刻，你发" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/来嘛，能语音的都来试" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/火影忍者：最装逼的五" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/玩个小游戏：在评论里" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/百年前世界各地妹子照" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/真是个好孙子，奶奶一" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/第一批95后大学生开" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/经常坐滴滴的你属于哪" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/网络小说原来都是这些" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/美貌无国界！迪丽热巴" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/让青春不留遗憾" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/还敢吐槽00后？报告" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/还能好好绑好车花么，" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/这些车给你们开真是屈" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/这伞降水平，能吃到鸡" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/这位兄dei可能是误" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/这在我家算硬菜了！来" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/这是什么东东，加上宝" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/那个不要房不要车的姑" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,13 +96,14 @@
     <SUITE FILE_PATH="coverage/demo$demoRegularExpression.coverage" NAME="demoRegularExpression Coverage Results" MODIFIED="1525856336571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demoRequestPost.coverage" NAME="demoRequestPost Coverage Results" MODIFIED="1525575098986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demoRequestSession.coverage" NAME="demoRequestSession Coverage Results" MODIFIED="1525577147071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonCourseDemo$demoSelenium.coverage" NAME="demoSelenium Coverage Results" MODIFIED="1526093519197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="demoThread.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demoThread.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
+            <state relative-caret-position="570">
               <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
               <folding>
                 <element signature="e#76#92#0" expanded="true" />
@@ -68,7 +126,7 @@
       <file leaf-file-name="demoSyncDownloadPic.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demoSyncDownloadPic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
+            <state relative-caret-position="405">
               <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
               <folding>
                 <element signature="e#76#91#0" expanded="true" />
@@ -89,7 +147,7 @@
       <file leaf-file-name="demoAsynDownloadPic.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demoAsynDownloadPic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
+            <state relative-caret-position="570">
               <caret line="45" column="55" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="55" />
               <folding>
                 <element signature="e#135#150#0" expanded="true" />
@@ -98,13 +156,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demoAsynbsbdj.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="demoAsynbsbdj.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demoAsynbsbdj.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+            <state relative-caret-position="390">
+              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demoSelenium.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demoSelenium.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
               <folding>
-                <element signature="e#120#136#0" expanded="true" />
+                <element signature="e#119#149#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,15 +186,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bsbdj.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bsbdj.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="demoCSV.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demoCSV.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
+            <state relative-caret-position="360">
               <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
             </state>
           </provider>
@@ -191,6 +253,8 @@
         <option value="$PROJECT_DIR$/demotest.py" />
         <option value="$PROJECT_DIR$/bsbdj.csv" />
         <option value="$PROJECT_DIR$/demoAsynbsbdj.py" />
+        <option value="$PROJECT_DIR$/images/demoSelenium.py" />
+        <option value="$PROJECT_DIR$/demoSelenium.py" />
       </list>
     </option>
   </component>
@@ -236,6 +300,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -248,7 +317,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demoAsynbsbdj">
+  <component name="RunManager" selected="Python.demoSelenium">
     <configuration name="demoAsynDownloadPic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -287,7 +356,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="demoSyncDownloadPic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demoSelenium" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,7 +369,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demoSyncDownloadPic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demoSelenium.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,19 +414,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.demoSyncDownloadPic" />
       <item itemvalue="Python.demolxmlInstance" />
       <item itemvalue="Python.demoAsynDownloadPic" />
       <item itemvalue="Python.demoAsynbsbdj" />
       <item itemvalue="Python.demotest" />
+      <item itemvalue="Python.demoSelenium" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demoSelenium" />
         <item itemvalue="Python.demoAsynbsbdj" />
         <item itemvalue="Python.demotest" />
         <item itemvalue="Python.demoAsynDownloadPic" />
         <item itemvalue="Python.demolxmlInstance" />
-        <item itemvalue="Python.demoSyncDownloadPic" />
       </list>
     </recent_temporary>
   </component>
@@ -379,16 +448,15 @@
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.34127593" side_tool="true" visible="true" weight="0.22188905" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.3420446" side_tool="true" visible="true" weight="0.22188905" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.65872407" visible="true" weight="0.22188905" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6579554" weight="0.22188905" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1829362" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49884704" weight="0.3298351" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -401,6 +469,7 @@
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49884704" weight="0.3298351" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -415,12 +484,12 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demoAsynDownloadPic.py">
+    <entry file="file://$PROJECT_DIR$/demoSelenium.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        <state relative-caret-position="180">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding>
-            <element signature="e#135#150#0" expanded="true" />
+            <element signature="e#119#149#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -493,7 +562,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demoSyncDownloadPic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
+        <state relative-caret-position="405">
           <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
           <folding>
             <element signature="e#76#91#0" expanded="true" />
@@ -503,7 +572,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demoAsynDownloadPic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
+        <state relative-caret-position="570">
           <caret line="45" column="55" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="55" />
           <folding>
             <element signature="e#135#150#0" expanded="true" />
@@ -513,7 +582,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demoThread.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
+        <state relative-caret-position="570">
           <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
           <folding>
             <element signature="e#76#92#0" expanded="true" />
@@ -532,7 +601,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSV.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
+        <state relative-caret-position="360">
           <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
         </state>
       </provider>
@@ -544,15 +613,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bsbdj.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/demoAsynbsbdj.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        <state relative-caret-position="390">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoSelenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
           <folding>
-            <element signature="e#120#136#0" expanded="true" />
+            <element signature="e#119#149#0" expanded="true" />
           </folding>
         </state>
       </provider>
