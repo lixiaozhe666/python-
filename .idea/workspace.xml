@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a599ec6e-2410-4b1c-9233-706f00786426" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/demoSelenuimActionChain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoSelenuimCookie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,6 +22,7 @@
     <SUITE FILE_PATH="coverage/pythonCourseDemo$demoAsynbsbdj.coverage" NAME="demoAsynbsbdj Coverage Results" MODIFIED="1526088291850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demoProxy.coverage" NAME="demoProxy Coverage Results" MODIFIED="1525533740097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demolxmlInstance.coverage" NAME="demolxmlInstance Coverage Results" MODIFIED="1525924273402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonCourseDemo$demoSelenuimCookie.coverage" NAME="demoSelenuimCookie Coverage Results" MODIFIED="1526201725070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demoBeaytifulSoupInstance.coverage" NAME="demoBeaytifulSoupInstance Coverage Results" MODIFIED="1525844179915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demoCookie.coverage" NAME="demoCookie Coverage Results" MODIFIED="1525535279386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demoJson.coverage" NAME="demoJson Coverage Results" MODIFIED="1525868437033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -44,18 +46,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demoThread.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demoThread.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
-              <folding>
-                <element signature="e#76#92#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="demoThreadLock.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demoThreadLock.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -67,13 +57,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demoAsynDownloadPic.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demoAsynDownloadPic.py">
+      <file leaf-file-name="demoSyncDownloadPic.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demoSyncDownloadPic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="45" column="55" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="55" />
+            <state relative-caret-position="405">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
               <folding>
-                <element signature="e#135#150#0" expanded="true" />
+                <element signature="e#76#91#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,8 +81,8 @@
       <file leaf-file-name="demoSelenium.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demoSelenium.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="63" />
               <folding>
                 <element signature="e#119#149#0" expanded="true" />
               </folding>
@@ -121,14 +111,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demoSelenuimActionChain.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="demoSelenuimActionChain.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demoSelenuimActionChain.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            <state relative-caret-position="270">
+              <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
               <folding>
                 <element signature="e#132#162#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demoSelenuimCookie.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demoSelenuimCookie.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -214,6 +213,7 @@
         <option value="$PROJECT_DIR$/demoSeleniumFindElement.py" />
         <option value="$PROJECT_DIR$/demoSeleniumForm.py" />
         <option value="$PROJECT_DIR$/demoSelenuimActionChain.py" />
+        <option value="$PROJECT_DIR$/demoSelenuimCookie.py" />
       </list>
     </option>
   </component>
@@ -276,26 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demoSelenuimActionChain">
-    <configuration name="demoAsynbsbdj" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demoAsynbsbdj.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.demoSelenuimCookie">
     <configuration name="demoSelenium" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -372,20 +353,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="demoSelenuimCookie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demoSelenuimCookie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.demoAsynbsbdj" />
       <item itemvalue="Python.demoSelenium" />
       <item itemvalue="Python.demoSeleniumFindElement" />
       <item itemvalue="Python.demoSeleniumForm" />
       <item itemvalue="Python.demoSelenuimActionChain" />
+      <item itemvalue="Python.demoSelenuimCookie" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demoSelenuimCookie" />
         <item itemvalue="Python.demoSelenuimActionChain" />
         <item itemvalue="Python.demoSeleniumForm" />
         <item itemvalue="Python.demoSeleniumFindElement" />
         <item itemvalue="Python.demoSelenium" />
-        <item itemvalue="Python.demoAsynbsbdj" />
       </list>
     </recent_temporary>
   </component>
@@ -411,9 +411,9 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6571868" visible="true" weight="0.22188905" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6571868" visible="true" weight="0.22188905" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1829362" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1829362" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -443,7 +443,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demoRequestGet.py" />
     <entry file="file://$PROJECT_DIR$/demoProxy.py" />
     <entry file="file://$PROJECT_DIR$/demoCookie.py" />
     <entry file="file://$PROJECT_DIR$/demoCookieLoadSave.py" />
@@ -507,16 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demoSyncDownloadPic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-          <folding>
-            <element signature="e#76#91#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demoAsynDownloadPic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -567,16 +556,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demoSelenium.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
-          <folding>
-            <element signature="e#119#149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demoSeleniumFindElement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -596,11 +575,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demoSelenuimActionChain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state relative-caret-position="270">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
           <folding>
             <element signature="e#132#162#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoSelenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="63" />
+          <folding>
+            <element signature="e#119#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoSyncDownloadPic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="e#76#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoSelenuimCookie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
         </state>
       </provider>
     </entry>
