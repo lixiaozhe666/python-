@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a599ec6e-2410-4b1c-9233-706f00786426" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/demoSeleniumFindElement.py" beforeDir="false" afterPath="$PROJECT_DIR$/demoSeleniumFindElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoSeleniumForm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,6 +34,7 @@
     <SUITE FILE_PATH="coverage/demo$demoLoginCookie.coverage" NAME="demoLoginCookie Coverage Results" MODIFIED="1525570571459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1525678904306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demoThreadCustomProducer.coverage" NAME="demoThreadCustomProducer Coverage Results" MODIFIED="1525916355540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonCourseDemo$demoSeleniumForm.coverage" NAME="demoSeleniumForm Coverage Results" MODIFIED="1526190572644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demoReqularExpressInstance.coverage" NAME="demoReqularExpressInstance Coverage Results" MODIFIED="1525867699045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demoRequest.coverage" NAME="demoRequest Coverage Results" MODIFIED="1525574069450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demoRegularExpression.coverage" NAME="demoRegularExpression Coverage Results" MODIFIED="1525856336571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -77,15 +79,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demolxmlInstance.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demolxmlInstance.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2595">
-              <caret line="173" column="33" selection-start-line="173" selection-start-column="33" selection-end-line="173" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="demoAsynDownloadPic.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demoAsynDownloadPic.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -119,14 +112,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demoSeleniumFindElement.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="demoSeleniumFindElement.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demoSeleniumFindElement.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="27" column="62" lean-forward="true" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="14" />
               <folding>
                 <element signature="e#130#161#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demoSeleniumForm.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demoSeleniumForm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -210,6 +212,7 @@
         <option value="$PROJECT_DIR$/images/demoSelenium.py" />
         <option value="$PROJECT_DIR$/demoSelenium.py" />
         <option value="$PROJECT_DIR$/demoSeleniumFindElement.py" />
+        <option value="$PROJECT_DIR$/demoSeleniumForm.py" />
       </list>
     </option>
   </component>
@@ -272,26 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demoSeleniumFindElement">
-    <configuration name="demoAsynDownloadPic" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demoAsynDownloadPic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.demoSeleniumForm">
     <configuration name="demoAsynbsbdj" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -349,6 +333,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="demoSeleniumForm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demoSeleniumForm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="demotest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -369,19 +372,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.demoAsynDownloadPic" />
       <item itemvalue="Python.demoAsynbsbdj" />
       <item itemvalue="Python.demotest" />
       <item itemvalue="Python.demoSelenium" />
       <item itemvalue="Python.demoSeleniumFindElement" />
+      <item itemvalue="Python.demoSeleniumForm" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demoSeleniumForm" />
         <item itemvalue="Python.demoSeleniumFindElement" />
         <item itemvalue="Python.demoSelenium" />
         <item itemvalue="Python.demoAsynbsbdj" />
         <item itemvalue="Python.demotest" />
-        <item itemvalue="Python.demoAsynDownloadPic" />
       </list>
     </recent_temporary>
   </component>
@@ -439,7 +442,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demoRequestProxy.py" />
     <entry file="file://$PROJECT_DIR$/demo1.py" />
     <entry file="file://$PROJECT_DIR$/demoRequestGet.py" />
     <entry file="file://$PROJECT_DIR$/demoProxy.py" />
@@ -577,11 +579,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demoSeleniumFindElement.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="27" column="62" lean-forward="true" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="14" />
           <folding>
             <element signature="e#130#161#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoSeleniumForm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
         </state>
       </provider>
     </entry>
